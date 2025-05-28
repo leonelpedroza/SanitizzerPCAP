@@ -11,10 +11,10 @@
 
 ## History
 
-When you are a deep troubleshooter in computer networks, it is very common need to share some packet (PCAP/PCAPNG) captures with manufacturers and external providers to add some extra intelligence and brain muscle, if you are asking for help, but in my usual cybersecurity paranoia, is not easy for me to share internal IP addresses, VLAN information and MAC addresses to the outside world.
+When you are a deep troubleshooter in computer networks, it is very common need to share some packet (PCAP/PCAPNG) captures with manufacturers and external providers to add some extra intelligence and brain muscle, if you are asking for help.
 
 
-I drew inspiration from my old "Sanitizzer" program to create this Python version, with a lot of help from my new best friend, Claude/Anthropic, who organized it, added comments, improved error handling, made it more modular and readable, and adhered to the Python PEP-8 programming standard.
+In my usual cybersecurity paranoia, is not easy for me to share internal IP addresses, VLAN information and MAC addresses to the outside world so, I drew inspiration from my old "Sanitizzer" program to create this Python version, with a lot of help from my new best friend, [Claude/Anthropic](https://claude.ai) LLM, who organized it, added comments, improved error handling, made it more modular and readable, and adhered to the Python PEP-8 programming standard.
 
 
 
