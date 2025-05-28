@@ -1,0 +1,14 @@
+# Core Requirements
+scapy>=2.5.0
+
+# Optional but recommended for better performance
+# Uncomment the following lines if you want to include optional dependencies
+# pypcapfile>=1.0.0
+# python-pcapng>=2.0.0
+
+# Note: tkinter is included with Python by default on most systems
+# If tkinter is not available, install it using your system's package manager:
+# - Windows: Included with Python
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - Fedora: sudo dnf install python3-tkinter
+# - macOS: Included with Python from python.org or brew install python-tk
