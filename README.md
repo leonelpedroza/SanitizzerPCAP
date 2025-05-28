@@ -6,10 +6,9 @@
 
 A cross-platform GUI application for sanitizing PCAP and PCAPNG network capture files by anonymizing MAC addresses, IP addresses (IPv4/IPv6), and VLAN IDs while preserving the packet structure and flow patterns.
 
-![PCAP Sanitizer GUI Screenshot](screenshot.png)
-
-
 ![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot1.png)
+![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot2.png)
+![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot3.png)
 
 
 ## Features
