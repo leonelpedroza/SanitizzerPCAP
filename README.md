@@ -22,9 +22,13 @@ I drew inspiration from my old "Sanitizzer" program to create this Python versio
 
 A cross-platform GUI application for sanitizing PCAP and PCAPNG network capture files by anonymizing MAC addresses, IP addresses (IPv4/IPv6), and VLAN IDs while preserving the packet structure and flow patterns.
 
-![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot1.png)
-![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot2.png)
-![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot3.png)
+<p align="center">
+  <img src="Screenshots/Screenshot1.png" alt="PCAP Sanitizer GUI" width="600">
+  <img src="Screenshots/Screenshot2.png" alt="PCAP Sanitizer GUI" width="600">
+  <img src="Screenshots/Screenshot3.png" alt="PCAP Sanitizer GUI" width="600">
+  <br>
+  <em>PCAP Sanitizer GUI in action</em>
+</p>
 
 
 ## Features
@@ -37,7 +41,13 @@ A cross-platform GUI application for sanitizing PCAP and PCAPNG network capture 
 - **🎨 User-Friendly GUI**: Intuitive interface with progress tracking and real-time updates
 
 ## Key Capabilities
-![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot0.png)
+
+<p align="center">
+  <img src="Screenshots/Screenshot0.png" alt="PCAP Sanitizer GUI" width="600">
+  <br>
+  <em>PCAP Sanitizer GUI in action</em>
+</p>
+
 ### Address Sanitization
 - **MAC Addresses**: Replace hardware addresses while preserving vendor OUIs (optional)
 - **IPv4 Addresses**: Anonymize IPs while maintaining subnet structures
