@@ -8,6 +8,10 @@ A cross-platform GUI application for sanitizing PCAP and PCAPNG network capture 
 
 ![PCAP Sanitizer GUI Screenshot](screenshot.png)
 
+
+![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot1.png)
+
+
 ## Features
 
 - **🔒 Privacy Protection**: Anonymize sensitive network addresses while maintaining packet relationships
