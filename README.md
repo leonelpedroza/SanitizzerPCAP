@@ -1,8 +1,13 @@
 # PCAP/PCAPNG Sanitizer GUI
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/yourusername/pcap-sanitizer-gui)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-green.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
+
+
+
 
 ## History
 
