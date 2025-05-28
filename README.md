@@ -32,7 +32,7 @@ A cross-platform GUI application for sanitizing PCAP and PCAPNG network capture 
 - **🎨 User-Friendly GUI**: Intuitive interface with progress tracking and real-time updates
 
 ## Key Capabilities
-
+![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot0.png)
 ### Address Sanitization
 - **MAC Addresses**: Replace hardware addresses while preserving vendor OUIs (optional)
 - **IPv4 Addresses**: Anonymize IPs while maintaining subnet structures
