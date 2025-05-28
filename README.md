@@ -4,6 +4,17 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/yourusername/pcap-sanitizer-gui)
 
+## History
+
+When you are a deep troubleshooter in computer networks, it is very common need to share some packet (PCAP/PCAPNG) captures with manufacturers and external providers to add some extra intelligence and brain muscle, if you are asking for help, but in my usual cybersecurity paranoia, is not easy for me to share internal IP addresses, VLAN information and MAC addresses to the outside world.
+
+
+I drew inspiration from my old "Sanitizzer" program to create this Python version, with a lot of help from my new best friend, Claude/Anthropic, who organized it, added comments, improved error handling, made it more modular and readable, and adhered to the Python PEP-8 programming standard.
+
+
+
+## Introduction
+
 A cross-platform GUI application for sanitizing PCAP and PCAPNG network capture files by anonymizing MAC addresses, IP addresses (IPv4/IPv6), and VLAN IDs while preserving the packet structure and flow patterns.
 
 ![PCAP Sanitizer GUI Screenshot](Screenshots/Screenshot1.png)
